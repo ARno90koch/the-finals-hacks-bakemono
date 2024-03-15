@@ -16,7 +16,7 @@
 
 ## Ｆｅａｔｕｒｅｓ 🛠️:
 
-![1](https://github.com/ARno90koch/the-finals-hacks-bakemono/assets/163590837/621477a4-65cf-488a-b1bb-ea52e4519835)
+![1 (1)](https://github.com/ARno90koch/the-finals-hacks-bakemono/assets/163590837/fc652f65-50db-4b3d-baf3-a5f608eb82a4)
 
 - ESP (Wallhack) - this feature of our cheat will allow you to see behind walls! You will be able to see players' names, their health, exact distance to them, the contents of crates, various lines (such as sight lines), team affiliation and much more!
 
@@ -24,7 +24,7 @@
 	
 - Misc (Tools) - our cheat also has a number of useful tools. For example, there is a function that removes weapon recoil and makes it reload faster. It is also possible to reduce ping, increase FPS by removing unnecessary objects in the scene. There are other useful features.
 
-- Antichit support (Undetected) - we always keep up to date with antichit bypass, so you can enjoy the game without the risk of being blocked.
+- Anticheat support (Undetected) - we always keep up to date with antichit bypass, so you can enjoy the game without the risk of being blocked.
 
 ---
 
